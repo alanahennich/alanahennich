@@ -7,13 +7,6 @@
 Sou bacharel em Design, com experiência em UX/UI, Web Design e Design Editorial. Atualmente, curso Análise e Desenvolvimento de Sistemas na UDESC, ampliando meus conhecimentos em desenvolvimento de software e tecnologia. Neste GitHub compartilho projetos acadêmicos, estudos e iniciativas pessoais, documentando minha evolução como desenvolvedora.
 
 <p align="left">
-    <a href="https://github.com/alanahennich?tab=followers">
-    <img 
-        alt="Seguidores"
-        title="Me siga no GitHub"
-        src="https://custom-icon-badges.demolab.com/github/followers/alanahennich?color=6e5494&labelColor=4c3a69&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-    </a>
     <a href="https://www.linkedin.com/in/alanahennich/">
     <img
         alt="LinkedIn"
